@@ -2,7 +2,7 @@
 
 Breakout game in Unity, try to break all blocks with the ball and paddle. Move the paddle with mouse, LMB launches the ball.
 
-Future extension: More levels!!
+In progress!!
 
 ![Say "Donald Trump"](https://github.com/adityaiiitv/Breakout/blob/master/Pictures/Screenshot%20(38).png)
 
