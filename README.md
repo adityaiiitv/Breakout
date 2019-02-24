@@ -9,11 +9,6 @@ In progress!!
 Initial Position
 
 
-![The President is here](https://github.com/adityaiiitv/Breakout/blob/master/Pictures/Screenshot%20(41).png)
-
-Gameplay
-
-
 Working:
 
 (1) Create objects for Blocks, Ball, Paddle, Level, and Game
@@ -25,6 +20,13 @@ Working:
 (4) Enjoy the game
 
 Tools: Unity, C#
+
+
+
+![The President is here](https://github.com/adityaiiitv/Breakout/blob/master/Pictures/Screenshot%20(41).png)
+
+Gameplay
+
 
 ![Pressing the button after saying "Hello"](https://github.com/adityaiiitv/Breakout/blob/master/Pictures/Screenshot%20(45).png)
 
