@@ -1,3 +1,4 @@
+![](https://github.com/adityaiiitv/Breakout/blob/master/Pictures/1fe96850-9bd8-4367-9ff5-873efbdc6d98.png)
 # Breakout
 
 Breakout game in Unity, try to break all blocks with the ball and paddle. Move the paddle with mouse, LMB launches the ball.
